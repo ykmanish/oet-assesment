@@ -1,7 +1,4 @@
 import React from "react";
-
-
-
 export const metadata = {
   title: "Oetology",
   description: "Oetology is a platform for learning and teaching",
