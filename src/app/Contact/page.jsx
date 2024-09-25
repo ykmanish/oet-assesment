@@ -1,6 +1,14 @@
 import React from "react";
 
+
+
+export const metadata = {
+  title: "Oetology",
+  description: "Oetology is a platform for learning and teaching",
+};
 const page = () => {
+
+  
   return (
     <div>
       <div className="max-w-7xl  mt-6 mb-20 mx-auto  ">
