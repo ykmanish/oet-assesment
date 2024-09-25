@@ -29,8 +29,8 @@ const CTAOne = () => {
 
               <div class="order-first h-48 w-full bg-gray-700 sm:order-none sm:h-auto sm:w-1/2 lg:w-3/5">
                 <Image
-                width={500}
-                height={500}
+                width={1500}
+                height={1500}
                   src="/ctabg.png"
                   loading="lazy"
                   alt="Photo by Dom Hill"
