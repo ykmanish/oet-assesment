@@ -21,8 +21,7 @@ const FAQ = () => {
                   Frequently Asked Questions
                 </h2>
                 <p className="small lg:text-lg text-sm tracking-wide pt-3 text-gray-800 ">
-                  Our courses are designed to help you achieve your goals. We
-                  have a range of features that will help you learn and grow.
+                  Here are some of the frequently asked questions by our students. If you have any other questions, feel free to contact us.
                 </p>
               </div>
               <div className="flex space-y-4 px-4 max-w-4xl mx-auto flex-col justify-center">

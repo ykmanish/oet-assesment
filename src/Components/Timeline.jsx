@@ -19,8 +19,7 @@ const CourseFeatures = () => {
                 Course Timeline
               </h2>
               <p class=" small tracking-wide pt-3 lg:text-lg text-sm text-gray-800 ">
-                Our courses are designed to help you achieve your goals. We have
-                a range of features that will help you learn and grow.
+              Achieve your goals with our course timeline, designed to facilitate your learning and growth at every stage.
               </p>
             </div>
             <div className="flex flex-col  items-start p-6 lg:p-10 bg-white rounded-[35px]  max-w-4xl mx-auto">

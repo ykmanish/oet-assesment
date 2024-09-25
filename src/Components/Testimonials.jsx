@@ -20,8 +20,7 @@ const Testimonials = () => {
                   What Our <br class="lg:hidden block"/>Students Say
                 </h2>
                 <p class=" small tracking-wide lg:text-lg text-sm pt-3 text-gray-800 ">
-                  Our courses are designed to help you achieve your goals. We
-                  have a range of features that will help you learn and grow.
+                  Here are some of the testimonials from our students who have taken our courses and achieved their goals.
                 </p>
               </div>
               <div class="grid  px-3 gap-4 lg:grid-cols-3 ">
