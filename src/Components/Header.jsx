@@ -40,7 +40,7 @@ const Header = () => {
             onClick={scrollToNextSection}
             class="w-full md:w-auto heading lg:mb-0 mb-10 inline-flex items-center justify-center py-3 px-7 text-base font-semibold text-center text-white rounded-full bg-[#21b0fe] shadow-xs hover:bg-indigo-700 transition-all duration-500"
           >
-            Explore More
+            Enroll Now
             <svg
               class="ml-2 rotate-90"
               width="20"

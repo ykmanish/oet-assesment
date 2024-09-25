@@ -17,10 +17,10 @@ const FAQ = () => {
           <div className="py-20">
             <div className="text-gray-600">
               <div className="pb-16 space-y-2 px-6 text-center">
-                <h2 className="lg:text-6xl text-4xl font-bold heading text-[#0c0c0c] md:text-6xl dark:text-white">
+                <h2 className="lg:text-6xl text-4xl font-bold heading text-[#0c0c0c] md:text-6xl ">
                   Frequently Asked Questions
                 </h2>
-                <p className="small lg:text-lg text-sm tracking-wide pt-3 text-gray-800 dark:text-gray-300">
+                <p className="small lg:text-lg text-sm tracking-wide pt-3 text-gray-800 ">
                   Our courses are designed to help you achieve your goals. We
                   have a range of features that will help you learn and grow.
                 </p>

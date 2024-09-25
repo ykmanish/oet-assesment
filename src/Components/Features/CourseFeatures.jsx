@@ -17,10 +17,10 @@ const CourseFeatures = () => {
       <div class="pt-20">
         <div class="xl:container m-auto px-3 text-gray-600 md:px-12 xl:px-6">
           <div class="pb-16 space-y-2 text-center">
-            <h2 class="lg:text-6xl text-4xl font-bold heading text-[#0c0c0c] md:text-6xl dark:text-white">
+            <h2 class="lg:text-6xl text-4xl font-bold heading text-[#0c0c0c] md:text-6xl ">
               Course Features
             </h2>
-            <p class=" small tracking-wide lg:text-lg text-sm pt-3 text-gray-800 dark:text-gray-300">
+            <p class=" small tracking-wide lg:text-lg text-sm pt-3 text-gray-800 ">
               Our courses are designed to help you achieve your goals. We have a
               range of features that will help you learn and grow.
             </p>
