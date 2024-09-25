@@ -2,26 +2,28 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+@font-face {
+  font-family: 'Aeonik';
+  src: url('../utils/font/AeonikTRIAL-Bold.otf') format('truetype');
+  /* Add additional font weights and styles if needed */
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+/* Aeonik REGULAR */
+@font-face {
+  font-family: 'Aeonik Pro';
+  src: url('../utils/font/AeonikProTRIAL-Regular.otf') format('truetype');
+  /* Add additional font weights and styles if needed */
 }
 
-body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+body{
+  background-color: #f8f8f8 ;
 }
 
-@layer utilities {
-  .text-balance {
-    text-wrap: balance;
-  }
+.heading{
+  font-family: 'Aeonik';
+  
+}
+
+.small{
+  font-family: 'Aeonik Pro';
 }
